@@ -39,3 +39,4 @@ Para ejecutar estos notebooks, sigue estos pasos:
 ## Recomendaciones
 
 - **Leer el primer comentario en `Parte3.ipynb`:** Es fundamental leer el primer comentario, pues en ese lugar se cambia la dirección de la data y la carpeta donde se alojarán los archivos escritos por el programa. Esto es crucial para el correcto funcionamiento del código.
+- Compilar linea por linea para que los dataframe generados por data no interfieran por los dataframe generados dentro del código.
