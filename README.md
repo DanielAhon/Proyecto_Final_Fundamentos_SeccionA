@@ -2,6 +2,12 @@
 
 Este repositorio contiene tres notebooks de Jupyter que forman parte de un proyecto de funcionalidades generales de Python y análisis de datos con Pandas, numpy y matplotib. A continuación, se describe de manera general el contenido de cada uno de los notebooks:
 
+### INTEGRANTES:
+- Acurio Solar Manuel
+- Ahon Malca Daniel Guillermo
+- Estrada Lopez Marco Josbel
+- Mozo Perez Willian Alessandro
+  
 ## Contenido de los Notebooks
 
 ### Parte1
